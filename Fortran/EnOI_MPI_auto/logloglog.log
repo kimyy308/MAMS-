@@ -1,0 +1,1011 @@
+ GRDNAME = 
+ /home/auto/MAMS/Data/01_NWP_1_10/Input/auto01_grid.nc                                                                                                                                                                                                           
+ ENSPATH = 
+ /home/auto/MAMS/Data/Ensemble/test                                                                                                                                                                                                                              
+ OBSNAME = 
+ /home/auto/MAMS/Data/Ensemble/test/nwp_1_10_obs.nc                                                                                                                                                                                                              
+ INNAME = 
+ /home/auto/MAMS/Data/Ensemble/test/auto01_rst_in.nc                                                                                                                                                                                                             
+ INNAME_PIECE_PATH = 
+ /home/auto/MAMS/Data/Ensemble/test/piece                                                                                                                                                                                                                        
+ OUTNAME = 
+ /home/auto/MAMS/Data/Ensemble/test/auto01_rst_out.nc                                                                                                                                                                                                            
+ LOGNAME = 
+ /home/auto/MAMS/Data/Ensemble/test/enoi.log                                                                                                                                                                                                                     
+ GRDNAME = 
+ /home/auto/MAMS/Data/01_NWP_1_10/Input/auto01_grid.nc                                                                                                                                                                                                           
+ ENSPATH = 
+ /home/auto/MAMS/Data/Ensemble/test                                                                                                                                                                                                                              
+ OBSNAME = 
+ /home/auto/MAMS/Data/Ensemble/test/nwp_1_10_obs.nc                                                                                                                                                                                                              
+ INNAME = 
+ /home/auto/MAMS/Data/Ensemble/test/auto01_rst_in.nc                                                                                                                                                                                                             
+ INNAME_PIECE_PATH = 
+ /home/auto/MAMS/Data/Ensemble/test/piece                                                                                                                                                                                                                        
+ OUTNAME = 
+ /home/auto/MAMS/Data/Ensemble/test/auto01_rst_out.nc                                                                                                                                                                                                            
+ LOGNAME = 
+ /home/auto/MAMS/Data/Ensemble/test/enoi.log                                                                                                                                                                                                                     
+ GRDNAME = 
+ /home/auto/MAMS/Data/01_NWP_1_10/Input/auto01_grid.nc                                                                                                                                                                                                           
+ ENSPATH = 
+ /home/auto/MAMS/Data/Ensemble/test                                                                                                                                                                                                                              
+ OBSNAME = 
+ /home/auto/MAMS/Data/Ensemble/test/nwp_1_10_obs.nc                                                                                                                                                                                                              
+ INNAME = 
+ /home/auto/MAMS/Data/Ensemble/test/auto01_rst_in.nc                                                                                                                                                                                                             
+ INNAME_PIECE_PATH = 
+ /home/auto/MAMS/Data/Ensemble/test/piece                                                                                                                                                                                                                        
+ OUTNAME = 
+ /home/auto/MAMS/Data/Ensemble/test/auto01_rst_out.nc                                                                                                                                                                                                            
+ LOGNAME = 
+ /home/auto/MAMS/Data/Ensemble/test/enoi.log                                                                                                                                                                                                                     
+ NENS =             5
+ GRDNAME = 
+ /home/auto/MAMS/Data/01_NWP_1_10/Input/auto01_grid.nc                                                                                                                                                                                                           
+ ENSPATH = 
+ /home/auto/MAMS/Data/Ensemble/test                                                                                                                                                                                                                              
+ OBSNAME = 
+ /home/auto/MAMS/Data/Ensemble/test/nwp_1_10_obs.nc                                                                                                                                                                                                              
+ INNAME = 
+ /home/auto/MAMS/Data/Ensemble/test/auto01_rst_in.nc                                                                                                                                                                                                             
+ INNAME_PIECE_PATH = 
+ /home/auto/MAMS/Data/Ensemble/test/piece                                                                                                                                                                                                                        
+ OUTNAME = 
+ /home/auto/MAMS/Data/Ensemble/test/auto01_rst_out.nc                                                                                                                                                                                                            
+ LOGNAME = 
+ /home/auto/MAMS/Data/Ensemble/test/enoi.log                                                                                                                                                                                                                     
+ NENS =             5
+ GRDNAME = 
+ /home/auto/MAMS/Data/01_NWP_1_10/Input/auto01_grid.nc                                                                                                                                                                                                           
+ ENSPATH = 
+ /home/auto/MAMS/Data/Ensemble/test                                                                                                                                                                                                                              
+ OBSNAME = 
+ /home/auto/MAMS/Data/Ensemble/test/nwp_1_10_obs.nc                                                                                                                                                                                                              
+ INNAME = 
+ /home/auto/MAMS/Data/Ensemble/test/auto01_rst_in.nc                                                                                                                                                                                                             
+ INNAME_PIECE_PATH = 
+ /home/auto/MAMS/Data/Ensemble/test/piece                                                                                                                                                                                                                        
+ OUTNAME = 
+ /home/auto/MAMS/Data/Ensemble/test/auto01_rst_out.nc                                                                                                                                                                                                            
+ LOGNAME = 
+ /home/auto/MAMS/Data/Ensemble/test/enoi.log                                                                                                                                                                                                                     
+ NENS =             5
+ DXDOMAIN =           100
+ GRDNAME = 
+ /home/auto/MAMS/Data/01_NWP_1_10/Input/auto01_grid.nc                                                                                                                                                                                                           
+ ENSPATH = 
+ /home/auto/MAMS/Data/Ensemble/test                                                                                                                                                                                                                              
+ OBSNAME = 
+ /home/auto/MAMS/Data/Ensemble/test/nwp_1_10_obs.nc                                                                                                                                                                                                              
+ INNAME = 
+ /home/auto/MAMS/Data/Ensemble/test/auto01_rst_in.nc                                                                                                                                                                                                             
+ INNAME_PIECE_PATH = 
+ /home/auto/MAMS/Data/Ensemble/test/piece                                                                                                                                                                                                                        
+ OUTNAME = 
+ /home/auto/MAMS/Data/Ensemble/test/auto01_rst_out.nc                                                                                                                                                                                                            
+ LOGNAME = 
+ /home/auto/MAMS/Data/Ensemble/test/enoi.log                                                                                                                                                                                                                     
+ NENS =             5
+ DXDOMAIN =           100
+ NENS =             5
+ DXDOMAIN =           100
+ DYDOMAIN =           100
+ GRDNAME = 
+ /home/auto/MAMS/Data/01_NWP_1_10/Input/auto01_grid.nc                                                                                                                                                                                                           
+ ENSPATH = 
+ /home/auto/MAMS/Data/Ensemble/test                                                                                                                                                                                                                              
+ OBSNAME = 
+ /home/auto/MAMS/Data/Ensemble/test/nwp_1_10_obs.nc                                                                                                                                                                                                              
+ INNAME = 
+ /home/auto/MAMS/Data/Ensemble/test/auto01_rst_in.nc                                                                                                                                                                                                             
+ INNAME_PIECE_PATH = 
+ /home/auto/MAMS/Data/Ensemble/test/piece                                                                                                                                                                                                                        
+ NENS =             5
+ DXDOMAIN =           100
+ DYDOMAIN =           100
+ GRDNAME = 
+ /home/auto/MAMS/Data/01_NWP_1_10/Input/auto01_grid.nc                                                                                                                                                                                                           
+ ENSPATH = 
+ /home/auto/MAMS/Data/Ensemble/test                                                                                                                                                                                                                              
+ OBSNAME = 
+ /home/auto/MAMS/Data/Ensemble/test/nwp_1_10_obs.nc                                                                                                                                                                                                              
+ INNAME = 
+ /home/auto/MAMS/Data/Ensemble/test/auto01_rst_in.nc                                                                                                                                                                                                             
+ INNAME_PIECE_PATH = 
+ /home/auto/MAMS/Data/Ensemble/test/piece                                                                                                                                                                                                                        
+ DXDOMAIN =           100
+ DYDOMAIN =           100
+ CINF =     35000.00000000000     
+ DXDOMAIN =           100
+ DYDOMAIN =           100
+ CINF =     35000.00000000000     
+ DYDOMAIN =           100
+ CINF =     35000.00000000000     
+ DYDOMAIN =           100
+ CINF =     35000.00000000000     
+ HINF =     100.0000000000000     
+ HINF =     100.0000000000000     
+ EPS =    1.0000000000000000E-003
+ ALPHA =     1.000000000000000     
+ CINF =     35000.00000000000     
+ HINF =     100.0000000000000     
+ EPS =    1.0000000000000000E-003
+ ALPHA =     1.000000000000000     
+ OUTNAME = 
+ /home/auto/MAMS/Data/Ensemble/test/auto01_rst_out.nc                                                                                                                                                                                                            
+ LOGNAME = 
+ /home/auto/MAMS/Data/Ensemble/test/enoi.log                                                                                                                                                                                                                     
+ CINF =     35000.00000000000     
+ HINF =     100.0000000000000     
+ EPS =    1.0000000000000000E-003
+ ALPHA =     1.000000000000000     
+ OUTNAME = 
+ /home/auto/MAMS/Data/Ensemble/test/auto01_rst_out.nc                                                                                                                                                                                                            
+ LOGNAME = 
+ /home/auto/MAMS/Data/Ensemble/test/enoi.log                                                                                                                                                                                                                     
+ HINF =     100.0000000000000     
+ EPS =    1.0000000000000000E-003
+ ALPHA =     1.000000000000000     
+ HINF =     100.0000000000000     
+ EPS =    1.0000000000000000E-003
+ ALPHA =     1.000000000000000     
+ EPS =    1.0000000000000000E-003
+ ALPHA =     1.000000000000000     
+ NENS =             5
+ NENS =             5
+ DXDOMAIN =           100
+ DXDOMAIN =           100
+ DYDOMAIN =           100
+ DYDOMAIN =           100
+ CINF =     35000.00000000000     
+ CINF =     35000.00000000000     
+ HINF =     100.0000000000000     
+ HINF =     100.0000000000000     
+ EPS =    1.0000000000000000E-003
+ EPS =    1.0000000000000000E-003
+ ALPHA =     1.000000000000000     
+ ALPHA =     1.000000000000000     
+ Nens=            5
+ dx and dy :          100 ,           100
+ Nens=            5
+ dx and dy :          100 ,           100
+ Nens=            5
+ dx and dy :          100 ,           100
+ read_grid
+ Nens=            5
+ dx and dy :          100 ,           100
+ read_grid
+ Nens=            5
+ dx and dy :          100 ,           100
+ read_grid
+ read_grid
+ Nens=            5
+ dx and dy :          100 ,           100
+ read_grid
+ read_grid
+ /home/auto/MAMS/Data/01_NWP_1_10/Input/auto01_grid.nc                                                                                                 
+ Nens=            5
+ dx and dy :          100 ,           100
+ read_grid
+ read_grid
+ /home/auto/MAMS/Data/01_NWP_1_10/Input/auto01_grid.nc                                                                                                 
+ Nens=            5
+ dx and dy :          100 ,           100
+ read_grid
+ read_grid
+ /home/auto/MAMS/Data/01_NWP_1_10/Input/auto01_grid.nc                                                                                                 
+ read_grid
+ read_grid
+ /home/auto/MAMS/Data/01_NWP_1_10/Input/auto01_grid.nc                                                                                                 
+ read_grid
+ read_grid
+ /home/auto/MAMS/Data/01_NWP_1_10/Input/auto01_grid.nc                                                                                                 
+ read_grid
+ /home/auto/MAMS/Data/01_NWP_1_10/Input/auto01_grid.nc                                                                                                 
+ read_grid
+ /home/auto/MAMS/Data/01_NWP_1_10/Input/auto01_grid.nc                                                                                                 
+ /home/auto/MAMS/Data/01_NWP_1_10/Input/auto01_grid.nc                                                                                                 
+ /home/auto/MAMS/Data/Ensemble/test/auto01_rst_out.nc                                                                                                  
+ /home/auto/MAMS/Data/Ensemble/test/auto01_rst_out.nc                                                                                                  
+ /home/auto/MAMS/Data/Ensemble/test/auto01_rst_out.nc                                                                                                  
+ /home/auto/MAMS/Data/Ensemble/test/auto01_rst_out.nc                                                                                                  
+ /home/auto/MAMS/Data/Ensemble/test/auto01_rst_out.nc                                                                                                  
+ /home/auto/MAMS/Data/Ensemble/test/auto01_rst_out.nc                                                                                                  
+ /home/auto/MAMS/Data/Ensemble/test/auto01_rst_out.nc                                                                                                  
+ /home/auto/MAMS/Data/Ensemble/test/auto01_rst_out.nc                                                                                                  
+ grid distribution
+ grid distribution
+ grid distribution
+ grid distribution
+ grid distribution
+ grid distribution
+ grid distribution
+ grid distribution
+ # of idomain =            25
+ # of domain =            22
+ read_grid is finished
+ loof_num=            3
+ # of idomain =            25
+ # of domain =            22
+ read_grid is finished
+ loof_num=            3
+ # of idomain =            25
+ # of domain =            22
+ read_grid is finished
+ loof_num=            3
+ # of idomain =            25
+ # of domain =            22
+ read_grid is finished
+ loof_num=            3
+ # of idomain =            25
+ # of domain =            22
+ read_grid is finished
+ loof_num=            3
+ # of idomain =            25
+ # of domain =            22
+ read_grid is finished
+ loof_num=            3
+ # of idomain =            25
+ # of domain =            22
+ read_grid is finished
+ loof_num=            3
+ # of idomain =            25
+ # of domain =            22
+ read_grid is finished
+ loof_num=            3
+ Processing Nens number =             1
+ /home/auto/MAMS/Data/Ensemble/test/ocean_ens_0001.nc                                                
+ Processing Nens number =             1
+ /home/auto/MAMS/Data/Ensemble/test/ocean_ens_0001.nc                                                
+ Processing Nens number =             1
+ /home/auto/MAMS/Data/Ensemble/test/ocean_ens_0001.nc                                                
+ Processing Nens number =             1
+ /home/auto/MAMS/Data/Ensemble/test/ocean_ens_0001.nc                                                
+ read ensinfo is finished
+ read ensinfo is finished
+ read ensinfo is finished
+ read ensinfo is finished
+ Processing Nens number =             1
+ /home/auto/MAMS/Data/Ensemble/test/ocean_ens_0001.nc                                                
+ read ensinfo is finished
+ Processing Nens number =             1
+ /home/auto/MAMS/Data/Ensemble/test/ocean_ens_0001.nc                                                
+ read ensinfo is finished
+ Processing Nens number =             1
+ /home/auto/MAMS/Data/Ensemble/test/ocean_ens_0001.nc                                                
+ read ensinfo is finished
+ Processing Nens number =             1
+ /home/auto/MAMS/Data/Ensemble/test/ocean_ens_0001.nc                                                
+ read ensinfo is finished
+ Processing Nens number =             2
+ /home/auto/MAMS/Data/Ensemble/test/ocean_ens_0002.nc                                                
+ Processing Nens number =             2
+ Processing Nens number =             2
+ /home/auto/MAMS/Data/Ensemble/test/ocean_ens_0002.nc                                                
+ /home/auto/MAMS/Data/Ensemble/test/ocean_ens_0002.nc                                                
+ Processing Nens number =             2
+ /home/auto/MAMS/Data/Ensemble/test/ocean_ens_0002.nc                                                
+ read ensinfo is finished
+ read ensinfo is finished
+ read ensinfo is finished
+ read ensinfo is finished
+ Processing Nens number =             2
+ /home/auto/MAMS/Data/Ensemble/test/ocean_ens_0002.nc                                                
+ Processing Nens number =             2
+ /home/auto/MAMS/Data/Ensemble/test/ocean_ens_0002.nc                                                
+ Processing Nens number =             2
+ /home/auto/MAMS/Data/Ensemble/test/ocean_ens_0002.nc                                                
+ Processing Nens number =             2
+ /home/auto/MAMS/Data/Ensemble/test/ocean_ens_0002.nc                                                
+ read ensinfo is finished
+ read ensinfo is finished
+ read ensinfo is finished
+ read ensinfo is finished
+ Processing Nens number =             3
+ /home/auto/MAMS/Data/Ensemble/test/ocean_ens_0003.nc                                                
+ read ensinfo is finished
+ Processing Nens number =             3
+ /home/auto/MAMS/Data/Ensemble/test/ocean_ens_0003.nc                                                
+ read ensinfo is finished
+ Processing Nens number =             3
+ /home/auto/MAMS/Data/Ensemble/test/ocean_ens_0003.nc                                                
+ Processing Nens number =             3
+ /home/auto/MAMS/Data/Ensemble/test/ocean_ens_0003.nc                                                
+ read ensinfo is finished
+ read ensinfo is finished
+ Processing Nens number =             3
+ /home/auto/MAMS/Data/Ensemble/test/ocean_ens_0003.nc                                                
+ read ensinfo is finished
+ Processing Nens number =             3
+ /home/auto/MAMS/Data/Ensemble/test/ocean_ens_0003.nc                                                
+ read ensinfo is finished
+ Processing Nens number =             3
+ /home/auto/MAMS/Data/Ensemble/test/ocean_ens_0003.nc                                                
+ read ensinfo is finished
+ Processing Nens number =             3
+ /home/auto/MAMS/Data/Ensemble/test/ocean_ens_0003.nc                                                
+ read ensinfo is finished
+ Processing Nens number =             4
+ /home/auto/MAMS/Data/Ensemble/test/ocean_ens_0004.nc                                                
+ Processing Nens number =             4
+ /home/auto/MAMS/Data/Ensemble/test/ocean_ens_0004.nc                                                
+ Processing Nens number =             4
+ Processing Nens number =             4
+ read ensinfo is finished
+ read ensinfo is finished
+ Processing Nens number =             4
+ /home/auto/MAMS/Data/Ensemble/test/ocean_ens_0004.nc                                                
+ /home/auto/MAMS/Data/Ensemble/test/ocean_ens_0004.nc                                                
+ /home/auto/MAMS/Data/Ensemble/test/ocean_ens_0004.nc                                                
+ Processing Nens number =             4
+ /home/auto/MAMS/Data/Ensemble/test/ocean_ens_0004.nc                                                
+ read ensinfo is finished
+ read ensinfo is finished
+ read ensinfo is finished
+ read ensinfo is finished
+ Processing Nens number =             4
+ /home/auto/MAMS/Data/Ensemble/test/ocean_ens_0004.nc                                                
+ read ensinfo is finished
+ Processing Nens number =             4
+ /home/auto/MAMS/Data/Ensemble/test/ocean_ens_0004.nc                                                
+ read ensinfo is finished
+ Processing Nens number =             5
+ Processing Nens number =             5
+ Processing Nens number =             5
+ Processing Nens number =             5
+ read ensinfo is finished
+ read ensinfo is finished
+ read ensinfo is finished
+ read ensinfo is finished
+ Processing Nens number =             5
+ Processing Nens number =             5
+ read ensinfo is finished
+ read ensinfo is finished
+ Processing Nens number =             5
+ read ensinfo is finished
+ Processing Nens number =             5
+ read ensinfo is finished
+ read_bg is finished
+ read_bg
+ IDobs :          -31
+ IDobs :   1237898044
+ iil=            1
+ read_bg is finished
+ read_bg
+ IDobs :          -31
+ read_bg is finished
+ read_bg
+ IDobs :          -31
+ IDobs :   1237898044
+ iil=            1
+ IDobs :   1237898044
+ iil=            1
+ read_bg is finished
+ read_bg
+ IDobs :          -31
+ read_bg is finished
+ read_bg
+ IDobs :          -31
+ IDobs :   1237898044
+ iil=            1
+ IDobs :   1237898044
+ iil=            1
+ read_bg is finished
+ read_bg
+ IDobs :          -31
+ IDobs :   1237898044
+ iil=            1
+ read_bg is finished
+ read_bg
+ IDobs :          -31
+ read_bg is finished
+ read_bg
+ IDobs :          -31
+ IDobs :   1237898044
+ iil=            1
+ IDobs :   1237898044
+ iil=            1
+ get background
+ get background
+ get background
+ get background
+ get background
+ ?
+ get background
+ get background
+ get background
+ Size of State Vector for CPU            1  :       1394259
+ Size of State Vector for CPU            0  :       1610000
+ Size of State Vector for CPU            2  :        661870
+ Size of State Vector for CPU            6  :       1052109
+ Size of State Vector for CPU            3  :        699953
+ Size of State Vector for CPU            5  :       1532077
+ Size of State Vector for CPU            7  :        188266
+ Size of State Vector for CPU            4  :       1610000
+ get observation
+ /home/auto/MAMS/Data/Ensemble/test/nwp_1_10_obs.nc                                                  
+ Make background at Obs. points
+ get observation
+ /home/auto/MAMS/Data/Ensemble/test/nwp_1_10_obs.nc                                                  
+ Make background at Obs. points
+ get observation
+ /home/auto/MAMS/Data/Ensemble/test/nwp_1_10_obs.nc                                                  
+ Make background at Obs. points
+ get observation
+ /home/auto/MAMS/Data/Ensemble/test/nwp_1_10_obs.nc                                                  
+ Make background at Obs. points
+ get observation
+ /home/auto/MAMS/Data/Ensemble/test/nwp_1_10_obs.nc                                                  
+ Make background at Obs. points
+ get observation
+ /home/auto/MAMS/Data/Ensemble/test/nwp_1_10_obs.nc                                                  
+ Make background at Obs. points
+ get observation
+ /home/auto/MAMS/Data/Ensemble/test/nwp_1_10_obs.nc                                                  
+ Make background at Obs. points
+ get observation
+ /home/auto/MAMS/Data/Ensemble/test/nwp_1_10_obs.nc                                                  
+ Make background at Obs. points
+              11  obs. for CPU            3
+ calulate ensemble mean cwrank =             3
+ calulated obs mean cwrank =             3
+              12  obs. for CPU            7
+ calulate ensemble mean cwrank =             7
+ calulated obs mean cwrank =             7
+              12  obs. for CPU            2
+ calulate ensemble mean cwrank =             2
+ calulated obs mean cwrank =             2
+              18  obs. for CPU            1
+ calulate ensemble mean cwrank =             1
+ calulated obs mean cwrank =             1
+              24  obs. for CPU            0
+ calulate ensemble mean cwrank =             0
+ calulated obs mean cwrank =             0
+              24  obs. for CPU            4
+ calulate ensemble mean cwrank =             4
+ calulated obs mean cwrank =             4
+              26  obs. for CPU            5
+ calulate ensemble mean cwrank =             5
+ calulated obs mean cwrank =             5
+             108  obs. for CPU            6
+ calulate ensemble mean cwrank =             6
+ calulated obs mean cwrank =             6
+ calculated PH   cwrank =             7
+ calculated PH   cwrank =             3
+ calculated PH   cwrank =             2
+ calculated PH   cwrank =             1
+ calculated PH   cwrank =             0
+ calculated PH   cwrank =             4
+ calculated PH   cwrank =             5
+ calculated PH   cwrank =             6
+ finished CH`
+ calulated rho*PH`   cwrank =             7
+ finished rho*HCH`
+ calculated Obs Error Cov. matrix R 
+  matrix inversion count =             1
+ Got HPH`+R and ready to inverse it    cwrank =             7
+ Now, inversion of matrix HPH` + R is SUCCESSFUL.
+ number of matrix inversion count =             1
+ finish new ensemble
+ new ensemble is updated! 
+ before save_anal, idomain :             7
+ before save_anal, num_domain :            22
+ finished CH`
+ calulated rho*PH`   cwrank =             3
+ finished rho*HCH`
+ calculated Obs Error Cov. matrix R 
+  matrix inversion count =             1
+ Got HPH`+R and ready to inverse it    cwrank =             3
+ Now, inversion of matrix HPH` + R is SUCCESSFUL.
+ number of matrix inversion count =             1
+ finish new ensemble
+ new ensemble is updated! 
+ before save_anal, idomain :             3
+ before save_anal, num_domain :            22
+ finished CH`
+ calulated rho*PH`   cwrank =             2
+ finished rho*HCH`
+ calculated Obs Error Cov. matrix R 
+  matrix inversion count =             1
+ Got HPH`+R and ready to inverse it    cwrank =             2
+ Now, inversion of matrix HPH` + R is SUCCESSFUL.
+ number of matrix inversion count =             1
+ finish new ensemble
+ new ensemble is updated! 
+ before save_anal, idomain :             2
+ before save_anal, num_domain :            22
+ finished CH`
+ calulated rho*PH`   cwrank =             1
+ finished rho*HCH`
+ calculated Obs Error Cov. matrix R 
+  matrix inversion count =             1
+ Got HPH`+R and ready to inverse it    cwrank =             1
+ Now, inversion of matrix HPH` + R is SUCCESSFUL.
+ number of matrix inversion count =             1
+ finish new ensemble
+ new ensemble is updated! 
+ before save_anal, idomain :             1
+ before save_anal, num_domain :            22
+ finished CH`
+ calulated rho*PH`   cwrank =             0
+ finished rho*HCH`
+ calculated Obs Error Cov. matrix R 
+  matrix inversion count =             1
+ Got HPH`+R and ready to inverse it    cwrank =             0
+ Now, inversion of matrix HPH` + R is SUCCESSFUL.
+ number of matrix inversion count =             1
+ finished CH`
+ calulated rho*PH`   cwrank =             5
+ finished rho*HCH`
+ calculated Obs Error Cov. matrix R 
+  matrix inversion count =             1
+ Got HPH`+R and ready to inverse it    cwrank =             5
+ Now, inversion of matrix HPH` + R is SUCCESSFUL.
+ number of matrix inversion count =             1
+ finish new ensemble
+ new ensemble is updated! 
+ before save_anal, idomain :             8
+ before save_anal, num_domain :            22
+ finish new ensemble
+ new ensemble is updated! 
+ before save_anal, idomain :             5
+ before save_anal, num_domain :            22
+ finished CH`
+ calulated rho*PH`   cwrank =             4
+ finished rho*HCH`
+ calculated Obs Error Cov. matrix R 
+  matrix inversion count =             1
+ Got HPH`+R and ready to inverse it    cwrank =             4
+ Now, inversion of matrix HPH` + R is SUCCESSFUL.
+ number of matrix inversion count =             1
+ finish new ensemble
+ new ensemble is updated! 
+ before save_anal, idomain :             4
+ before save_anal, num_domain :            22
+ finished CH`
+ calulated rho*PH`   cwrank =             6
+ finished rho*HCH`
+ calculated Obs Error Cov. matrix R 
+  matrix inversion count =             1
+ Got HPH`+R and ready to inverse it    cwrank =             6
+ Now, inversion of matrix HPH` + R is SUCCESSFUL.
+ number of matrix inversion count =             1
+ finish new ensemble
+ new ensemble is updated! 
+ before save_anal, idomain :             6
+ before save_anal, num_domain :            22
+ iil=            2
+ iil=            2
+ iil=            2
+ iil=            2
+ iil=            2
+ iil=            2
+ iil=            2
+ iil=            2
+ get background
+ get background
+ get background
+ get background
+ ?
+ get background
+ get background
+ get background
+ get background
+ Size of State Vector for CPU            6  :       1610000
+ Size of State Vector for CPU            5  :       1609277
+ Size of State Vector for CPU            7  :       1610000
+ Size of State Vector for CPU            1  :       1610000
+ Size of State Vector for CPU            2  :       1228688
+ Size of State Vector for CPU            0  :       1571792
+ Size of State Vector for CPU            4  :        270917
+ Size of State Vector for CPU            3  :       1085490
+ get observation
+ /home/auto/MAMS/Data/Ensemble/test/nwp_1_10_obs.nc                                                  
+ Make background at Obs. points
+               4  obs. for CPU            4
+ calulate ensemble mean cwrank =             4
+ calulated obs mean cwrank =             4
+ get observation
+ /home/auto/MAMS/Data/Ensemble/test/nwp_1_10_obs.nc                                                  
+ Make background at Obs. points
+ get observation
+ /home/auto/MAMS/Data/Ensemble/test/nwp_1_10_obs.nc                                                  
+ Make background at Obs. points
+ get observation
+ /home/auto/MAMS/Data/Ensemble/test/nwp_1_10_obs.nc                                                  
+ get observation
+ /home/auto/MAMS/Data/Ensemble/test/nwp_1_10_obs.nc                                                  
+ get observation
+ /home/auto/MAMS/Data/Ensemble/test/nwp_1_10_obs.nc                                                  
+ Make background at Obs. points
+ Make background at Obs. points
+ Make background at Obs. points
+ get observation
+ /home/auto/MAMS/Data/Ensemble/test/nwp_1_10_obs.nc                                                  
+ Make background at Obs. points
+ get observation
+ /home/auto/MAMS/Data/Ensemble/test/nwp_1_10_obs.nc                                                  
+ Make background at Obs. points
+              24  obs. for CPU            5
+ calulate ensemble mean cwrank =             5
+ calulated obs mean cwrank =             5
+              37  obs. for CPU            6
+ calulate ensemble mean cwrank =             6
+ calulated obs mean cwrank =             6
+              46  obs. for CPU            1
+ calulate ensemble mean cwrank =             1
+ calulated obs mean cwrank =             1
+              49  obs. for CPU            0
+ calulate ensemble mean cwrank =             0
+ calulated obs mean cwrank =             0
+              53  obs. for CPU            3
+ calulate ensemble mean cwrank =             3
+ calulated obs mean cwrank =             3
+              69  obs. for CPU            7
+ calulate ensemble mean cwrank =             7
+ calulated obs mean cwrank =             7
+              82  obs. for CPU            2
+ calulate ensemble mean cwrank =             2
+ calulated obs mean cwrank =             2
+ calculated PH   cwrank =             4
+ finished CH`
+ calulated rho*PH`   cwrank =             4
+ finished rho*HCH`
+ calculated Obs Error Cov. matrix R 
+  matrix inversion count =             1
+ Got HPH`+R and ready to inverse it    cwrank =             4
+ Now, inversion of matrix HPH` + R is SUCCESSFUL.
+ number of matrix inversion count =             1
+ finish new ensemble
+ new ensemble is updated! 
+ before save_anal, idomain :            12
+ before save_anal, num_domain :            22
+ calculated PH   cwrank =             5
+ calculated PH   cwrank =             3
+ calculated PH   cwrank =             6
+ calculated PH   cwrank =             0
+ calculated PH   cwrank =             1
+ calculated PH   cwrank =             2
+ calculated PH   cwrank =             7
+ finished CH`
+ calulated rho*PH`   cwrank =             5
+ finished rho*HCH`
+ calculated Obs Error Cov. matrix R 
+  matrix inversion count =             1
+ Got HPH`+R and ready to inverse it    cwrank =             5
+ Now, inversion of matrix HPH` + R is SUCCESSFUL.
+ number of matrix inversion count =             1
+ finish new ensemble
+ new ensemble is updated! 
+ before save_anal, idomain :            13
+ before save_anal, num_domain :            22
+ finished CH`
+ calulated rho*PH`   cwrank =             3
+ finished rho*HCH`
+ calculated Obs Error Cov. matrix R 
+  matrix inversion count =             1
+ Got HPH`+R and ready to inverse it    cwrank =             3
+ Now, inversion of matrix HPH` + R is SUCCESSFUL.
+ number of matrix inversion count =             1
+ finish new ensemble
+ new ensemble is updated! 
+ before save_anal, idomain :            11
+ before save_anal, num_domain :            22
+ finished CH`
+ calulated rho*PH`   cwrank =             6
+ finished rho*HCH`
+ calculated Obs Error Cov. matrix R 
+  matrix inversion count =             1
+ Got HPH`+R and ready to inverse it    cwrank =             6
+ Now, inversion of matrix HPH` + R is SUCCESSFUL.
+ number of matrix inversion count =             1
+ finish new ensemble
+ new ensemble is updated! 
+ before save_anal, idomain :            14
+ before save_anal, num_domain :            22
+ finished CH`
+ calulated rho*PH`   cwrank =             1
+ finished rho*HCH`
+ calculated Obs Error Cov. matrix R 
+  matrix inversion count =             1
+ Got HPH`+R and ready to inverse it    cwrank =             1
+ Now, inversion of matrix HPH` + R is SUCCESSFUL.
+ number of matrix inversion count =             1
+ finish new ensemble
+ new ensemble is updated! 
+ before save_anal, idomain :             9
+ before save_anal, num_domain :            22
+ finished CH`
+ calulated rho*PH`   cwrank =             0
+ finished rho*HCH`
+ calculated Obs Error Cov. matrix R 
+  matrix inversion count =             1
+ Got HPH`+R and ready to inverse it    cwrank =             0
+ Now, inversion of matrix HPH` + R is SUCCESSFUL.
+ number of matrix inversion count =             1
+ finish new ensemble
+ new ensemble is updated! 
+ before save_anal, idomain :            16
+ before save_anal, num_domain :            22
+ finished CH`
+ calulated rho*PH`   cwrank =             2
+ finished rho*HCH`
+ calculated Obs Error Cov. matrix R 
+  matrix inversion count =             1
+ Got HPH`+R and ready to inverse it    cwrank =             2
+ Now, inversion of matrix HPH` + R is SUCCESSFUL.
+ number of matrix inversion count =             1
+ finish new ensemble
+ new ensemble is updated! 
+ before save_anal, idomain :            10
+ before save_anal, num_domain :            22
+ finished CH`
+ calulated rho*PH`   cwrank =             7
+ finished rho*HCH`
+ calculated Obs Error Cov. matrix R 
+  matrix inversion count =             1
+ Got HPH`+R and ready to inverse it    cwrank =             7
+ Now, inversion of matrix HPH` + R is SUCCESSFUL.
+ number of matrix inversion count =             1
+ finish new ensemble
+ new ensemble is updated! 
+ before save_anal, idomain :            15
+ before save_anal, num_domain :            22
+ iil=            3
+ iil=            3
+ iil=            3
+ iil=            3
+ iil=            3
+ iil=            3
+ iil=            3
+ get background
+ ?
+ calulate ensemble mean cwrank =             0
+ calulated obs mean cwrank =             0
+ get background
+ get background
+ get background
+ iil=            3
+ calulate ensemble mean cwrank =             7
+ calulated obs mean cwrank =             7
+ get background
+ get background
+ Size of State Vector for CPU            6  :        625731
+ Size of State Vector for CPU            2  :       1123000
+ Size of State Vector for CPU            1  :        956653
+ Size of State Vector for CPU            4  :       1123000
+ Size of State Vector for CPU            5  :       1123000
+ Size of State Vector for CPU            3  :       1123000
+ get observation
+ /home/auto/MAMS/Data/Ensemble/test/nwp_1_10_obs.nc                                                  
+ Make background at Obs. points
+ get observation
+ /home/auto/MAMS/Data/Ensemble/test/nwp_1_10_obs.nc                                                  
+ Make background at Obs. points
+ get observation
+ /home/auto/MAMS/Data/Ensemble/test/nwp_1_10_obs.nc                                                  
+ Make background at Obs. points
+ get observation
+ /home/auto/MAMS/Data/Ensemble/test/nwp_1_10_obs.nc                                                  
+ Make background at Obs. points
+ get observation
+ /home/auto/MAMS/Data/Ensemble/test/nwp_1_10_obs.nc                                                  
+ Make background at Obs. points
+ get observation
+ /home/auto/MAMS/Data/Ensemble/test/nwp_1_10_obs.nc                                                  
+ Make background at Obs. points
+               3  obs. for CPU            6
+ calulate ensemble mean cwrank =             6
+ calulated obs mean cwrank =             6
+               6  obs. for CPU            1
+ calulate ensemble mean cwrank =             1
+ calulated obs mean cwrank =             1
+              12  obs. for CPU            5
+ calulate ensemble mean cwrank =             5
+ calulated obs mean cwrank =             5
+              12  obs. for CPU            2
+ calulate ensemble mean cwrank =             2
+ calulated obs mean cwrank =             2
+              15  obs. for CPU            3
+ calulate ensemble mean cwrank =             3
+ calulated obs mean cwrank =             3
+              15  obs. for CPU            4
+ calulate ensemble mean cwrank =             4
+ calulated obs mean cwrank =             4
+ before save_anal, idomain :            23
+ before save_anal, num_domain :            22
+ before save_anal, idomain :            24
+ before save_anal, num_domain :            22
+ calculated PH   cwrank =             6
+ calculated PH   cwrank =             1
+ calculated PH   cwrank =             2
+ calculated PH   cwrank =             5
+ calculated PH   cwrank =             4
+ calculated PH   cwrank =             3
+ finished CH`
+ calulated rho*PH`   cwrank =             6
+ finished rho*HCH`
+ calculated Obs Error Cov. matrix R 
+  matrix inversion count =             1
+ Got HPH`+R and ready to inverse it    cwrank =             6
+ Now, inversion of matrix HPH` + R is SUCCESSFUL.
+ number of matrix inversion count =             1
+ finish new ensemble
+ new ensemble is updated! 
+ before save_anal, idomain :            22
+ before save_anal, num_domain :            22
+ finished CH`
+ calulated rho*PH`   cwrank =             1
+ finished rho*HCH`
+ calculated Obs Error Cov. matrix R 
+  matrix inversion count =             1
+ Got HPH`+R and ready to inverse it    cwrank =             1
+ Now, inversion of matrix HPH` + R is SUCCESSFUL.
+ number of matrix inversion count =             1
+ finish new ensemble
+ new ensemble is updated! 
+ before save_anal, idomain :            17
+ before save_anal, num_domain :            22
+ finished CH`
+ calulated rho*PH`   cwrank =             5
+ finished rho*HCH`
+ calculated Obs Error Cov. matrix R 
+  matrix inversion count =             1
+ Got HPH`+R and ready to inverse it    cwrank =             5
+ Now, inversion of matrix HPH` + R is SUCCESSFUL.
+ number of matrix inversion count =             1
+ finish new ensemble
+ new ensemble is updated! 
+ before save_anal, idomain :            21
+ before save_anal, num_domain :            22
+ finished CH`
+ calulated rho*PH`   cwrank =             2
+ finished rho*HCH`
+ calculated Obs Error Cov. matrix R 
+  matrix inversion count =             1
+ Got HPH`+R and ready to inverse it    cwrank =             2
+ Now, inversion of matrix HPH` + R is SUCCESSFUL.
+ number of matrix inversion count =             1
+ finish new ensemble
+ new ensemble is updated! 
+ before save_anal, idomain :            18
+ before save_anal, num_domain :            22
+ finished CH`
+ calulated rho*PH`   cwrank =             3
+ finished rho*HCH`
+ calculated Obs Error Cov. matrix R 
+  matrix inversion count =             1
+ Got HPH`+R and ready to inverse it    cwrank =             3
+ Now, inversion of matrix HPH` + R is SUCCESSFUL.
+ number of matrix inversion count =             1
+ finish new ensemble
+ new ensemble is updated! 
+ before save_anal, idomain :            19
+ before save_anal, num_domain :            22
+ finished CH`
+ calulated rho*PH`   cwrank =             4
+ finished rho*HCH`
+ calculated Obs Error Cov. matrix R 
+  matrix inversion count =             1
+ Got HPH`+R and ready to inverse it    cwrank =             4
+ Now, inversion of matrix HPH` + R is SUCCESSFUL.
+ number of matrix inversion count =             1
+ finish new ensemble
+ new ensemble is updated! 
+ before save_anal, idomain :            20
+ before save_anal, num_domain :            22
+ End of iil
+ finstart?????
+ End of iil
+ finstart?????
+ End of iil
+ finstart?????
+ End of iil
+ finstart?????
+ End of iil
+ finstart?????
+ End of iil
+ finstart?????
+ End of iil
+ finstart?????
+ finstart?????, 649
+            0            8            1
+ End of iil
+ finstart?????
+ finstart?????, 649
+            0            8            4
+ finstart?????, 649
+            0            8            5
+ finstart?????, 649
+            0            8            7
+ finstart?????, 649
+            0            8            3
+ finstart?????, 649
+            0            8            6
+ finstart?????, 649
+            0            8            0
+ final?
+ start combine all
+ /home/auto/MAMS/Data/Ensemble/test/auto01_rst_out.nc
+ finstart?????, 649
+            0            8            2
+ /home/auto/MAMS/Data/Ensemble/test/auto01_rst_in.nc
+ cp -rf   /home/auto/MAMS/Data/Ensemble/test/auto01_rst_out.nc /home/auto/MAMS/Data/Ensemble/test/auto01_rst_in.nc
+ /home/auto/MAMS/Data/Ensemble/test/piece/ocean_rst_in_0000.nc                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+ /home/auto/MAMS/Data/Ensemble/test/piece/ocean_rst_in_0000.nc ----> 
+ /home/auto/MAMS/Data/Ensemble/test/auto01_rst_in.nc
+ /home/auto/MAMS/Data/Ensemble/test/piece/ocean_rst_in_0001.nc                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+ /home/auto/MAMS/Data/Ensemble/test/piece/ocean_rst_in_0001.nc ----> 
+ /home/auto/MAMS/Data/Ensemble/test/auto01_rst_in.nc
+ /home/auto/MAMS/Data/Ensemble/test/piece/ocean_rst_in_0002.nc                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+ /home/auto/MAMS/Data/Ensemble/test/piece/ocean_rst_in_0002.nc ----> 
+ /home/auto/MAMS/Data/Ensemble/test/auto01_rst_in.nc
+ /home/auto/MAMS/Data/Ensemble/test/piece/ocean_rst_in_0003.nc                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+ /home/auto/MAMS/Data/Ensemble/test/piece/ocean_rst_in_0003.nc ----> 
+ /home/auto/MAMS/Data/Ensemble/test/auto01_rst_in.nc
+ /home/auto/MAMS/Data/Ensemble/test/piece/ocean_rst_in_0004.nc                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+ /home/auto/MAMS/Data/Ensemble/test/piece/ocean_rst_in_0004.nc ----> 
+ /home/auto/MAMS/Data/Ensemble/test/auto01_rst_in.nc
+ /home/auto/MAMS/Data/Ensemble/test/piece/ocean_rst_in_0005.nc                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+ /home/auto/MAMS/Data/Ensemble/test/piece/ocean_rst_in_0005.nc ----> 
+ /home/auto/MAMS/Data/Ensemble/test/auto01_rst_in.nc
+ /home/auto/MAMS/Data/Ensemble/test/piece/ocean_rst_in_0006.nc                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+ /home/auto/MAMS/Data/Ensemble/test/piece/ocean_rst_in_0006.nc ----> 
+ /home/auto/MAMS/Data/Ensemble/test/auto01_rst_in.nc
+ /home/auto/MAMS/Data/Ensemble/test/piece/ocean_rst_in_0007.nc                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+ /home/auto/MAMS/Data/Ensemble/test/piece/ocean_rst_in_0007.nc ----> 
+ /home/auto/MAMS/Data/Ensemble/test/auto01_rst_in.nc
+ /home/auto/MAMS/Data/Ensemble/test/piece/ocean_rst_in_0008.nc                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+ /home/auto/MAMS/Data/Ensemble/test/piece/ocean_rst_in_0008.nc ----> 
+ /home/auto/MAMS/Data/Ensemble/test/auto01_rst_in.nc
+ /home/auto/MAMS/Data/Ensemble/test/piece/ocean_rst_in_0009.nc                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+ /home/auto/MAMS/Data/Ensemble/test/piece/ocean_rst_in_0009.nc ----> 
+ /home/auto/MAMS/Data/Ensemble/test/auto01_rst_in.nc
+ /home/auto/MAMS/Data/Ensemble/test/piece/ocean_rst_in_0010.nc                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+ /home/auto/MAMS/Data/Ensemble/test/piece/ocean_rst_in_0010.nc ----> 
+ /home/auto/MAMS/Data/Ensemble/test/auto01_rst_in.nc
+ /home/auto/MAMS/Data/Ensemble/test/piece/ocean_rst_in_0011.nc                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+ /home/auto/MAMS/Data/Ensemble/test/piece/ocean_rst_in_0011.nc ----> 
+ /home/auto/MAMS/Data/Ensemble/test/auto01_rst_in.nc
+ /home/auto/MAMS/Data/Ensemble/test/piece/ocean_rst_in_0012.nc                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+ /home/auto/MAMS/Data/Ensemble/test/piece/ocean_rst_in_0012.nc ----> 
+ /home/auto/MAMS/Data/Ensemble/test/auto01_rst_in.nc
+ /home/auto/MAMS/Data/Ensemble/test/piece/ocean_rst_in_0013.nc                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+ /home/auto/MAMS/Data/Ensemble/test/piece/ocean_rst_in_0013.nc ----> 
+ /home/auto/MAMS/Data/Ensemble/test/auto01_rst_in.nc
+ /home/auto/MAMS/Data/Ensemble/test/piece/ocean_rst_in_0014.nc                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+ /home/auto/MAMS/Data/Ensemble/test/piece/ocean_rst_in_0014.nc ----> 
+ /home/auto/MAMS/Data/Ensemble/test/auto01_rst_in.nc
+ /home/auto/MAMS/Data/Ensemble/test/piece/ocean_rst_in_0015.nc                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+ /home/auto/MAMS/Data/Ensemble/test/piece/ocean_rst_in_0015.nc ----> 
+ /home/auto/MAMS/Data/Ensemble/test/auto01_rst_in.nc
+ /home/auto/MAMS/Data/Ensemble/test/piece/ocean_rst_in_0016.nc                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+ /home/auto/MAMS/Data/Ensemble/test/piece/ocean_rst_in_0016.nc ----> 
+ /home/auto/MAMS/Data/Ensemble/test/auto01_rst_in.nc
+ /home/auto/MAMS/Data/Ensemble/test/piece/ocean_rst_in_0017.nc                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+ /home/auto/MAMS/Data/Ensemble/test/piece/ocean_rst_in_0017.nc ----> 
+ /home/auto/MAMS/Data/Ensemble/test/auto01_rst_in.nc
+ /home/auto/MAMS/Data/Ensemble/test/piece/ocean_rst_in_0018.nc                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+ /home/auto/MAMS/Data/Ensemble/test/piece/ocean_rst_in_0018.nc ----> 
+ /home/auto/MAMS/Data/Ensemble/test/auto01_rst_in.nc
+ /home/auto/MAMS/Data/Ensemble/test/piece/ocean_rst_in_0019.nc                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+ /home/auto/MAMS/Data/Ensemble/test/piece/ocean_rst_in_0019.nc ----> 
+ /home/auto/MAMS/Data/Ensemble/test/auto01_rst_in.nc
+ /home/auto/MAMS/Data/Ensemble/test/piece/ocean_rst_in_0020.nc                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+ /home/auto/MAMS/Data/Ensemble/test/piece/ocean_rst_in_0020.nc ----> 
+ /home/auto/MAMS/Data/Ensemble/test/auto01_rst_in.nc
+ /home/auto/MAMS/Data/Ensemble/test/piece/ocean_rst_in_0021.nc                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+ /home/auto/MAMS/Data/Ensemble/test/piece/ocean_rst_in_0021.nc ----> 
+ /home/auto/MAMS/Data/Ensemble/test/auto01_rst_in.nc
+ /home/auto/MAMS/Data/Ensemble/test/piece/ocean_rst_in_0022.nc                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+ /home/auto/MAMS/Data/Ensemble/test/piece/ocean_rst_in_0022.nc ----> 
+ /home/auto/MAMS/Data/Ensemble/test/auto01_rst_in.nc
+ /home/auto/MAMS/Data/Ensemble/test/piece/ocean_rst_in_0023.nc                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+ /home/auto/MAMS/Data/Ensemble/test/piece/ocean_rst_in_0023.nc ----> 
+ /home/auto/MAMS/Data/Ensemble/test/auto01_rst_in.nc
+ /home/auto/MAMS/Data/Ensemble/test/piece/ocean_rst_in_0024.nc                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+ /home/auto/MAMS/Data/Ensemble/test/piece/ocean_rst_in_0024.nc ----> 
+ /home/auto/MAMS/Data/Ensemble/test/auto01_rst_in.nc
+ Combine done for ens number           -7
+ NEXTSTEP

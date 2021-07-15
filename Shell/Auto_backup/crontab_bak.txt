@@ -1,0 +1,18 @@
+### Crontab backup
+   00  00  *  *  * crontab -l > /home/auto/MAMS/Source/Shell/Auto/crontab_bak.txt
+### Auto_all
+   00  05  *  *  * /bin/sh -xv /home/auto/MAMS/Source/Shell/Auto/Auto_all.sh 2>&1
+### CJD data download (every hour)
+   00  *  *  *  * /bin/csh /home/auto/MAMS/Source/Shell/CJD/archive_datong.csh > /home/auto/MAMS/Data/CJD/CJD_log.log 2>&1
+
+
+### MyOcean data download (every 05:00)
+###   00  05  *  *  * /bin/sh -xv /home/auto/MAMS/Source/Shell/MyOcean/myocean_download_OBC.sh > /home/auto/MAMS/Data/MyOcean/GAFP_001_024/myocean_download_OBC.log 2>&1
+### OISST data download (every 05:00)
+###   00  05  *  *  * /bin/sh -xv /home/auto/MAMS/Source/Shell/OISST/OISST_download.sh > /home/auto/MAMS/Data/OISST/OISST_download.log 2>&1
+### NOMADS data download (every 05:00)
+###   00  05  *  *  * /bin/sh -xv /home/auto/MAMS/Source/Shell/NOMADS/NOMADS_wget.sh > /home/auto/MAMS/Data/NOMADS/log_NODADS_wget.log 2>&1
+### UM data download (every 05:00)
+###   00  05  *  *  * /bin/sh -xv /home/auto/MAMS/Source/Shell/UM/get_um_data00h_global.sh > /home/auto/MAMS/Data/UM_global_10km/UM_global_get.log 2>&1
+
+

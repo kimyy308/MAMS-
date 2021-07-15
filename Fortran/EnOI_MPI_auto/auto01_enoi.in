@@ -1,0 +1,14 @@
+GRDNAME = /home/auto/MAMS/Model/ROMS/01_NWP_1_10/Input/auto01_grid.nc
+ENSPATH = /home/auto/MAMS/Data/DA/01_NWP_1_10/Ensemble
+OBSNAME = /home/auto/MAMS/Data/DA/01_NWP_1_10/OSTIA/auto01_obs.nc
+INNAME = /home/auto/MAMS/Model/ROMS/01_NWP_1_10/Output/Daily/2021/07/20210712/auto01_rst_DA_20210712.nc
+INNAME_PIECE_PATH = /home/auto/MAMS/Data/DA/01_NWP_1_10/Ensemble/piece
+OUTNAME = /home/auto/MAMS/Model/ROMS/01_NWP_1_10/Output/Daily/2021/07/20210712/auto01_rst_20210712.nc
+LOGNAME = /home/auto/MAMS/Source/Fortran/EnOI_MPI_auto/enoi.log
+NENS = 37
+DXDOMAIN = 100
+DYDOMAIN = 100
+CINF = 35000.0d0
+HINF = 100.0d0
+EPS = 0.001d0
+ALPHA = 1.0d0

@@ -1,0 +1,37 @@
+### Crontab backup
+   00  00  *  *  * crontab -l > /home/auto/MAMS/Source/Shell/Auto/crontab_bak.txt
+### Auto_all (NWP)
+   00  05  *  *  * /bin/sh -xv /home/auto/MAMS/Source/Shell/Auto/Auto_all.sh 2>&1
+### YSECS, make_runtime
+    00  08  *  *  * /bin/csh -xv /data1/auto/src/make_runtime.csh >& /data1/auto/log/make_runitme.log &
+### YSECS, Auto_all
+    00  08  *  *  * export DISPLAY=:7 && /bin/csh -xv /data1/auto/src/auto_all.csh >& /data1/auto/log/auto_all.log &
+
+### Auto_all_forcing_data_download_only 
+#   00  15  *  *  * /bin/sh -xv /home/auto/MAMS/Source/Shell/Auto/Auto_all_data_download_only.sh 2>&1
+
+### NWP error check
+   00  15  *  *  * /bin/sh /home/auto/MAMS/Source/Shell/Auto/send_error_mail.sh >& /data1/auto/log/send_error.log 2>&1
+
+###======= make dummy figure for MICT_pollack project =======####
+### never comment this process!
+   00  05  *  *  * /bin/sh /home/auto/MAMS/Source/Shell/Auto/make_dummy_fig.sh >& /data1/auto/log/make_dummy_fig.log 2>&1 
+### ChangJiang River Discharge (CJD) data download (every hour)
+### never comment this process! CJD data should be downloaded everyday
+   10  *  *  *  * /bin/csh /home/auto/MAMS/Source/Shell/CJD/archive_datong.csh > /home/auto/MAMS/Data/CJD/CJD_log.log 2>&1
+### archive Changjiang River Discharge(cskim)
+### never comment this process! CJD data should be downloaded everyday
+   15   *  *  *  * /bin/csh /data1/auto/TGD/archive_datong.csh >& /data1/auto/TGD/log.log &
+
+   52   13  *  *  * DISPLAY=:0  ~/MAMS/App/runmatlab_auto_disp 20200305 /home/auto/MAMS/Source/MATLAB/postprocessing/Figure/plot_surface_data_mict_auto_test.m
+
+### MyOcean data download (every 05:00)
+###   00  05  *  *  * /bin/sh -xv /home/auto/MAMS/Source/Shell/MyOcean/myocean_download_OBC.sh > /home/auto/MAMS/Data/MyOcean/GAFP_001_024/myocean_download_OBC.log 2>&1
+### OISST data download (every 05:00)
+###   00  05  *  *  * /bin/sh -xv /home/auto/MAMS/Source/Shell/OISST/OISST_download.sh > /home/auto/MAMS/Data/OISST/OISST_download.log 2>&1
+### NOMADS data download (every 05:00)
+###   00  05  *  *  * /bin/sh -xv /home/auto/MAMS/Source/Shell/NOMADS/NOMADS_wget.sh > /home/auto/MAMS/Data/NOMADS/log_NODADS_wget.log 2>&1
+### UM data download (every 05:00)
+###   00  05  *  *  * /bin/sh -xv /home/auto/MAMS/Source/Shell/UM/get_um_data00h_global.sh > /home/auto/MAMS/Data/UM_global_10km/UM_global_get.log 2>&1
+
+

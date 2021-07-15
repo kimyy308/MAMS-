@@ -1,0 +1,1 @@
+05  00  *  *  * /bin/sh -xv /data1/auto/Atm/NOMADS/NOMADS_wget.sh > /data1/auto/Atm/NOMADS/log_NODADS_wget.log

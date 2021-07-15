@@ -1,0 +1,9 @@
+ ! NOAA/PMEL TMAP
+ ! FERRET v6.93  
+ ! Linux 2.6.32-504.el6.x86_64 64-bit - 11/13/14
+ ! 13-Dec-19 13:45     
+
+use test.nc
+show data
+shade thetao
+exit
